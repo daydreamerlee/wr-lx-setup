@@ -15,6 +15,15 @@
 
 # Note this class MUST run in both python2 and python3
 
+# pylint: disable=attribute-defined-outside-init
+# pylint: disable=too-many-branches
+# pylint: disable=too-many-statements
+# pylint: disable=bare-except
+# pylint: disable=misplaced-bare-raise
+# pylint: disable=too-many-nested-blocks
+# pylint: disable=no-self-use
+
+
 import argparse
 import sys
 

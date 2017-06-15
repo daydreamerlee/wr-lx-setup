@@ -33,6 +33,14 @@
 # A special folder name '[SKIP]' is defined when you are intentionally
 # skipping a layer.
 
+# pylint: disable=attribute-defined-outside-init
+# pylint: disable=too-many-branches
+# pylint: disable=too-many-statements
+# pylint: disable=bare-except
+# pylint: disable=misplaced-bare-raise
+# pylint: disable=too-many-nested-blocks
+# pylint: disable=no-self-use
+
 import argparse
 
 import os

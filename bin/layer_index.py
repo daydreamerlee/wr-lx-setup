@@ -13,6 +13,14 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
+# pylint: disable=attribute-defined-outside-init
+# pylint: disable=too-many-branches
+# pylint: disable=too-many-statements
+# pylint: disable=bare-except
+# pylint: disable=misplaced-bare-raise
+# pylint: disable=too-many-nested-blocks
+# pylint: disable=no-self-use
+
 import json
 
 import sys
